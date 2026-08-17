@@ -1,0 +1,14 @@
+{
+  "name": "kill-port",
+  "version": "1.0.0",
+  "description": "Kill the process running on a specific port",
+  "bin": {
+    "killport": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": ["port", "kill", "cli", "devtools"],
+  "author": "Your Name",
+  "license": "MIT"
+}
