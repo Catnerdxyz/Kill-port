@@ -1,6 +1,4 @@
-Here is a polished, professional version of the README, optimized for clarity, visual hierarchy, and developer experience. It includes improved badge links, clearer usage examples, and a more structured layout.
-
-# killport 🔪
+# killport
 
 > **Kill the process running on a specific port — instantly.**
 
