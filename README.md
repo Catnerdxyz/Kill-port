@@ -47,19 +47,17 @@ Kill a process on port 3000:
 ```bash
 killport 3000
 ```
-# Successfully killed process on port 3000 (PID: 12345)
 
 When the port is already free:
 
 ```bash
 killport 8080
 ```
-# No process found running on port 8080
 
 ## How It Works
 killport automatically detects your operating system and uses the native tools to find and terminate processes.
 
-🤝 Contributing
+## Contributing
 Found a bug or have a feature request? We welcome contributions!
 
 Fork the repository.
